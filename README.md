@@ -1,5 +1,4 @@
-Customer Segmentation Analysis Repository
-Overview
+                            Overview
 This repository contains customer segmentation analysis conducted using KMeans clustering, Principal Component Analysis (PCA), and Exploratory Data Analysis (EDA). The primary objective of this analysis is to gain insights into customer behavior by grouping them into distinct segments based on their characteristics.
 
 Contents
